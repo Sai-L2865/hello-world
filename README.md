@@ -1,3 +1,3 @@
 # hello-world
 My First repository
-Hi all, manage is Sai. I am new to coding.
+Hi all, my name is Sai. I am new to coding.
